@@ -1,12 +1,9 @@
 package chase.com;
 
 public class Demo {
+    public static void main(String[] args){
+        CreationOfMethod n=new CreationOfMethod();
+        n.NewMethod();
 
-
-        public static void main(String[] args)
-        {
-            int employee_Name;
-        }
-
-
+    }
 }
