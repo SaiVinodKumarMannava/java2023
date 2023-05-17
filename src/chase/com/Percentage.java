@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 public class Percentage {
-    public static void main(String[] args) {
+    public void marksInExams() {
         Scanner scanner=new Scanner(System.in);
         System.out.println("Enter your Marks:");
         float marks= scanner.nextFloat();

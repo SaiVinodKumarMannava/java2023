@@ -1,6 +1,6 @@
 package chase.com;
 public class Table {
-    public static void main(String[] args) {
+    public  void twoTable() {
        /* int n = 10;
         int i,table = 0;
         for (i = 1; i <= n; i++) {
@@ -12,7 +12,7 @@ public class Table {
             System.out.println(table);
         }
     */
-        int table=6;
+        int table=2;
         for(int i=1;i<=10;i++){
 
             System.out.println(table+"*"+i+"="+(table*i));
