@@ -1,0 +1,17 @@
+pipeline{
+     stage('checkout'){
+        steps{
+             echo 'hello world '
+              }
+        }
+ stage('build'){
+        steps{
+             echo 'hello world '
+              }
+        }
+ stage('deploy'){
+        steps{
+             echo 'hello world'
+              }
+        }
+}
